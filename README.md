@@ -4,7 +4,7 @@
 A `Dynamic Website` developed using html, css, and javascript that displays your portfolio, timetable, and some course videos.
 
 ### Functionalities
-- You can `Add as many Projects` as you want.
+- You can `Add as many Projects` as you want in the portfolio.
 - You can `Edit any Row` in the timetable.
 - You can `Delete any Row` in the timetable.
 - You can `Add a New Row` in the timetable.
