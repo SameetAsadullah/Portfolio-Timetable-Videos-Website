@@ -3,6 +3,13 @@
 ### Description
 A `Dynamic Website` developed using html, css, and javascript that displays your portfolio, timetable, and some course videos.
 
+### Functionalities
+- You can `Add as many Projects` as you want.
+- You can `Edit any Row` in the timetable.
+- You can `Delete any Row` in the timetable.
+- You can `Add a New Row` in the timetable.
+- You can `Search in the Timetable` as well.
+
 ### Manual
 1) Open `index.html` in your browser.
 2) You can navigate to timetable page by clicking on `Timetable` at the menu bar.
