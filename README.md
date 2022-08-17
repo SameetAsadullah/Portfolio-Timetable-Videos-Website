@@ -17,16 +17,17 @@ A `Dynamic Website` developed using html, css, and javascript that displays your
 
 ### Working Screenshots
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-1.jpg" alt = "" width="200px"/>
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-2.jpg" alt = "" width="200px"/>
+  <img src = "https://github.com/SameetAsadullah/Portfolio-Timetable-Videos-Website/blob/main/extras/index-ss-1.png" alt = "" width="700px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-3.jpg" alt = "" width="200px"/>
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-4.jpg" alt = "" width="200px"/>
+  <img src = "https://github.com/SameetAsadullah/Portfolio-Timetable-Videos-Website/blob/main/extras/index-ss-2.png" alt = "" width="700px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-5.jpg" alt = "" width="200px"/>
-  <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-6.jpg" alt = "" width="200px"/>
+  <img src = "https://github.com/SameetAsadullah/Portfolio-Timetable-Videos-Website/blob/main/extras/timetable-ss.png" alt = "" width="700px"/>
+</div>
+<br/>
+<div align="center">
+  <img src = "https://github.com/SameetAsadullah/Portfolio-Timetable-Videos-Website/blob/main/extras/course-videos-ss.png" alt = "" width="700px"/>
 </div>
