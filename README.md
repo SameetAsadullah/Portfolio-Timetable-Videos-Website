@@ -12,8 +12,8 @@ A `Dynamic Website` developed using html, css, and javascript that displays your
 
 ### Manual
 1) Open `index.html` in your browser.
-2) You can navigate to timetable page by clicking on `Timetable` at the menu bar.
-3) You can navigate to course videos page by clicking on `Course Videos` at the menu bar.
+2) You can navigate to timetable page by clicking on `Timetable` at the top menu bar.
+3) You can navigate to course videos page by clicking on `Course Videos` at the top menu bar.
 
 ### Working Screenshots
 <div align="center">
